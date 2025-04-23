@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\presenter\\mainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\presenter\\mainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\presenter\\imainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\presenter\\imainwindowpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\model\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\model\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\model\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\model\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\model\\filecopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\model\\filecopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\view\\imainwindowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\view\\imainwindowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|c:\\users\\lenovo\\desktop\\copyfileswpf\\copyfileswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06C5A703-148B-4CB9-BCC9-FE4F19DA2260}|CopyFilesWPF\\CopyFilesWPF.csproj|solutionrelative:copyfileswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Presenter\\MainWindowPresenter.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\Presenter\\MainWindowPresenter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Presenter\\MainWindowPresenter.cs",
+              "RelativeToolTip": "CopyFilesWPF\\Presenter\\MainWindowPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMainWindowView.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\View\\IMainWindowView.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\View\\IMainWindowView.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\View\\IMainWindowView.cs",
+              "RelativeToolTip": "CopyFilesWPF\\View\\IMainWindowView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMainWindowPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Presenter\\IMainWindowPresenter.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\Presenter\\IMainWindowPresenter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Presenter\\IMainWindowPresenter.cs",
+              "RelativeToolTip": "CopyFilesWPF\\Presenter\\IMainWindowPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\App.xaml.cs",
+              "RelativeToolTip": "CopyFilesWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\MainWindowModel.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\Model\\MainWindowModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\MainWindowModel.cs",
+              "RelativeToolTip": "CopyFilesWPF\\Model\\MainWindowModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilePath.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\FilePath.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\Model\\FilePath.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\FilePath.cs",
+              "RelativeToolTip": "CopyFilesWPF\\Model\\FilePath.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileCopier.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\FileCopier.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\Model\\FileCopier.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\Model\\FileCopier.cs",
+              "RelativeToolTip": "CopyFilesWPF\\Model\\FileCopier.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "CopyFilesWPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CopyFilesWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:30:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\MainWindow.xaml",
+              "RelativeToolTip": "CopyFilesWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T16:30:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\App.xaml",
+              "RelativeDocumentMoniker": "CopyFilesWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CopyFilesWPF\\CopyFilesWPF\\App.xaml",
+              "RelativeToolTip": "CopyFilesWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T16:30:22.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
